@@ -1,0 +1,4 @@
+# mode-status widget bundle patch: inserts its public dsh.client entry into the web plugin roster.
+- insert:
+    - id: ui-mode-status
+      name: '@dsh-external/dsh-client-ui-mode-status'

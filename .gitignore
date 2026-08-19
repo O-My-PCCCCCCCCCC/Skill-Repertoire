@@ -1,0 +1,4 @@
+# 忽略临时/系统文件
+Thumbs.db
+*.tmp
+.DS_Store

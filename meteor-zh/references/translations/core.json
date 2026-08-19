@@ -1,0 +1,8 @@
+{
+"Module '{}' contains invalid characters in its name making it incompatible with Meteor Client commands.": "模块 '{}' 的名称包含无效字符，导致其与 Meteor Client 命令不兼容。",
+"Toggled (highlight)%s(default) %s(default).": "已切换 (highlight)%s(default) (%s)。",
+"Bound to (highlight)%s(default).": "已绑定至 (highlight)%s(default)。",
+"Modules.addModule - Module's category was not registered.": "Modules.addModule - 模块的分类未注册。",
+"Modules.registerCategory - Cannot register category outside of onRegisterCategories callback.": "Modules.registerCategory - 无法在 onRegisterCategories 回调之外注册分类。",
+"Removed bind.": "已移除按键绑定。"
+}
