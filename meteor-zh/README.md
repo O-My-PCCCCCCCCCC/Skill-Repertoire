@@ -1,5 +1,7 @@
 # meteor-zh · Minecraft 汉化 skill
 
+> ⚠️ **仅供学习使用 · 禁止商用 · 禁止二次售卖 · 禁止未经授权再分发（含修改版）**
+
 把 Minecraft 的 Meteor Client（或它的任何插件/addon 的 jar）安全地改成简体中文版。
 
 - **Meteor Client jar** → 全量处理：翻译界面文字 + 注入按需加载的中文渲染器 + 换中文字体

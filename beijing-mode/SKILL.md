@@ -1,5 +1,7 @@
 # beijing-mode —— 梁文谷 / 梁文峰 时间分段回复模式
 
+> ⚠️ **仅供学习使用 · 禁止商用 · 禁止二次售卖 · 禁止未经授权再分发（含修改版）**
+
 > 用户级 skill，任何 DSH 会话自动可见。作用：让 AI 按**当前北京时间**自动切换回复风格（梁文谷 = 正常回复 / 梁文峰 = 极简回复）。
 > 配套状态看板：`E:\Workspace\Project\mode-status`（端口 25565，网页 + /api/status）。
 > 修改规则时，需同步更新：本 SKILL.md、`mode-status\server.js`、`mode-status\public\app.js` 三处的分段定义。

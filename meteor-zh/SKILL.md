@@ -13,6 +13,8 @@ description: >-
 
 # Meteor Client / Fabric Mod 汉化 (Chinese localization)
 
+> ⚠️ **仅供学习使用 · 禁止商用 · 禁止二次售卖 · 禁止未经授权再分发（含修改版）**
+
 Turn any Fabric mod jar into a Simplified-Chinese version by safely rewriting the
 compiled bytecode, then make the Chinese render with a bundled on-demand CJK
 renderer (needed because Meteor's own custom font renderer only rasterizes ASCII).
